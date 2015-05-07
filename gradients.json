@@ -518,5 +518,10 @@
     "name":"Curiosity blue",
     "colour1":"#525252",
     "colour2":"#3d72b4"
+  },
+  {
+    "name":"iCloud",
+    "colour1":"#082B50",
+    "colour2":"#F38633"
   }
 ]
