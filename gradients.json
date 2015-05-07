@@ -523,5 +523,11 @@
     "name":"iCloud",
     "colour1":"#082B50",
     "colour2":"#F38633"
+  },
+  {
+    "name":"iCloud boreal",
+    "colour1":"#082B50",
+    "colour2":"#87beba",
+    "colour3":"#F38633"
   }
 ]
